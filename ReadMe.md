@@ -26,7 +26,7 @@ To run the solution, execute the `Solution1.py` file:
 
 ```bash
 python Solution1.py
-
+```
 The program will output the indices of the two numbers that add up to the target.
 
 License
